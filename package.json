@@ -1,0 +1,15 @@
+{
+  "name": "elements-mee-responsive-resume-and-portfolio-template-e9l75ht-3mrm9nej-08-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "rewrites": [
+    { "source": "/custom-path", "destination": "/HTML/black/index.html" }
+  ]
+}
